@@ -10,4 +10,4 @@
 ### Descrizione
 Questo progetto parla dell'importaza della vita e di come non valga la pena morire per un lavoro.<br>
 **La vita non va sprecata**<br>
-Il progetto di storia e di economia è visionabile al link: (PDI)(PDI.pdf)
+Il progetto di storia e di economia è visionabile al link: [PDI](PDI.pdf)
